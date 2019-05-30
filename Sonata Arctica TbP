@@ -1,0 +1,70 @@
+<html>
+<main id="main">
+
+  <header id="title"><h1>Sonata Arctica</h1></header> 
+  <div class="box">
+  <div id="img-div" class="box1">
+    <img src="http://assets.blabbermouth.net/media/sonataarcticaband2015new_638.jpg" id="image">
+    <p id="img-caption">Henrik Klingenberg, Tommy Portimo, Tony Kakko, Pasi Kauppinen, Elias Viljanen. (left to right)</p>
+  </div>
+  <div id="tribute-info" >
+    <h2>About</h2>
+    <p>Sonata Arctica is a Finnish power metal band from the town of Kemi, Finland. Created as a hard rock band named Tricky Beans, they later changed to Tricky Means and finally to Sonata Arctica, when they shifted to power metal. The current line-up consists of singer, keyboardist and songwriter Tony Kakko, guitarist Elias Viljanen, bass guitarist Pasi Kauppinen, keyboardist and keytarist Henrik Klingenberg, and drummer Tommy Portimo. All the musicians of the band's history except Portimo also acted as backing vocalists.</p> 
+    <h2>Musical Style and Influence</h2>
+    <div>
+    <p>When asked if the band identified themselves with power metal, melodic metal or none of them, Kakko stated:</p>
+
+<p>“	I always think that it's "Melodic Metal". That's is the easiest thing to me because melody is very important to me and we all think we sound something like metal so ... haha - Melodic Metal. They are all the same for me really ... there's so many names it's kind of confusing.	”</p>
+<p>In a 2007 interview with C.B.Liddell, Tony Kakko cited the English rock band Queen as his biggest musical influence.</p>
+<p>“	A lot of people seem to mention a Queen influence in our music... Queen has always been the biggest band for me.	”</p>
+    </div>
+    <h2>Discogrphy</h2>
+    <ul>
+      <li>Ecliptica (1999)</li>
+      <li>Silence (2001)</li>
+      <li>Winterheart's Guild (2003)</li>
+        <li>Reckoning Night (2004)</li>
+        <li>Unia (2007)</li>
+        <li>The Days of Grays (2009)</li>
+        <li>Stones Grow Her Name (2012)</li>
+        <li>Pariah's Child (2014)</li>
+        <li>The Ninth Hour (2016)</li>
+    </ul>
+  </div> 
+    <p> Get all the <a id="tribute-link" href="http://www.sonataarctica.info/news" target="_blank">News About Sonata Arctica</a> here</>
+  </div>
+</main>
+
+<link href="https://fonts.googleapis.com/css?family=Expletus+Sans&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Bitter&display=swap" rel="stylesheet">
+</html>
+<style>
+body{
+  text-align: center;
+  background-image: url("https://i.ytimg.com/vi/qBA7G8_NxCk/maxresdefault.jpg");
+  background-position:  top;
+  background-attachment: fixed;
+}
+
+#title{
+  font-family: 'Expletus Sans', cursive;
+  font-size: 30px;
+}
+img{
+   width: 40vw;
+        
+}
+.box{
+  margin-left: 18vw;
+  margin-right: 18vw;
+  padding: 40px;
+  background-color: rgb(0, 6, 15);
+  color: white;
+}
+
+ul{
+  margin-left: 18vw;
+  margin-right: 18vw;
+}
+
+</style>
